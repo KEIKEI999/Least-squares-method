@@ -1,11 +1,11 @@
 # Description
 
-test.py
-	‘S‘Ì‚ğ2ŸŠÖ”‚Å“¯’è	
-test_full.py
-	4‹æŠÔ‚ğŒÂ•Ê‚Ì2ŸŠÖ”‚Å“¯’è
-test_7.py
-	‘S‘Ì‚ğ7ŸŠÖ”‚Å“¯’è
+-test.py
+	-å…¨ä½“ã‚’2æ¬¡é–¢æ•°ã§åŒå®š
+-test_full.py
+	-4åŒºé–“ã‚’å€‹åˆ¥ã®2æ¬¡é–¢æ•°ã§åŒå®š
+-test_7.py
+	-å…¨ä½“ã‚’7æ¬¡é–¢æ•°ã§åŒå®š
 
-Python”Å‚ÌÚ×à–¾
-https://www.simulationroom999.com/blog/python-laf-sensor-characteristic/
+Pythonç‰ˆã®è©³ç´°èª¬æ˜  
+https://www.simulationroom999.com/blog/python-laf-sensor-characteristic/  

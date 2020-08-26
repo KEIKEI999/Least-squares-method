@@ -1,11 +1,11 @@
 # Description
 
-test_fullpolyfit.m
-	‘S‘Ì‚ğ2ŸŠÖ”‚Å“¯’è	
-test_fullpolyfit2.m
-	4‹æŠÔ‚ğŒÂ•Ê‚Ì2ŸŠÖ”‚Å“¯’è
-test_fullpolyfit7.m
-	‘S‘Ì‚ğ7ŸŠÖ”‚Å“¯’è
+-test_fullpolyfit.m
+	-å…¨ä½“ã‚’2æ¬¡é–¢æ•°ã§åŒå®š	
+-test_fullpolyfit2.m
+	-4åŒºé–“ã‚’å€‹åˆ¥ã®2æ¬¡é–¢æ•°ã§åŒå®š
+-test_fullpolyfit7.m
+	-å…¨ä½“ã‚’7æ¬¡é–¢æ•°ã§åŒå®š
 
-MATLAB”Å‚ÌÚ×à–¾
-https://www.simulationroom999.com/blog/matlab-laf-sensor-characteristic/
+MATLABç‰ˆã®è©³ç´°èª¬æ˜  
+https://www.simulationroom999.com/blog/matlab-laf-sensor-characteristic/  
