@@ -1,11 +1,11 @@
 # Description
 
 test.py
-	�S�̂�2���֐��œ���	
+	全体を2次関数で同定	
 test_full.py
-	4��Ԃ��ʂ�2���֐��œ���
+	4区間を個別の2次関数で同定
 test_7.py
-	�S�̂�7���֐��œ���
+	全体を7次関数で同定
 
-Python�ł̏ڍא���
+Python版の詳細説明
 https://www.simulationroom999.com/blog/python-laf-sensor-characteristic/
